@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" fill="#0b0b0c"/>
+  <!-- barcode bars -->
+  <rect x="2" y="3" width="3" height="20" fill="white"/>
+  <rect x="7" y="3" width="2" height="13" fill="white"/>
+  <rect x="11" y="3" width="3" height="17" fill="white"/>
+  <rect x="16" y="3" width="2" height="10" fill="white"/>
+  <rect x="20" y="3" width="3" height="19" fill="white"/>
+  <rect x="25" y="3" width="2" height="8" fill="white"/>
+  <rect x="29" y="3" width="2" height="16" fill="white"/>
+  <!-- red laser line -->
+  <rect x="0" y="24" width="32" height="2" fill="#e8302a"/>
+  <!-- grey band -->
+  <rect x="0" y="26" width="32" height="6" fill="#8f8f92"/>
+</svg>
