@@ -1,7 +1,7 @@
 /* ============ 479 CODE — shared behaviour ============ */
 const REDUCE=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-const WA_NUMBER='2340000000000'; /* <-- update once: every WhatsApp link on the site uses this */
-const EMAIL='hello@479code.com';
+const WA_NUMBER='2347074733491'; /* <-- update once: every WhatsApp link on the site uses this */
+const EMAIL='479code@gmail.com';
 
 /* ------- theme (dark default, remembered) ------- */
 (function(){
